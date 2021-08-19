@@ -1,1 +1,2 @@
 hellow!
+fetch practice from_6.txt
