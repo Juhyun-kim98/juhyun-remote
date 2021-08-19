@@ -1,2 +1,3 @@
 hi
 hello!!
+fetch practice from_7.txt
